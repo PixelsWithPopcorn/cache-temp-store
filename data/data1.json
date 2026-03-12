@@ -1,6 +1,7 @@
 [
   {
     "channel": "English Premier Movies",
+    "cid": "@EnglishPremierMovies",
     "date": "2026-02-12",
     "id": "I0cJyE_Aqew",
     "lang": "en",
@@ -8,90 +9,135 @@
   },
   {
     "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
     "date": "2026-03-11",
     "id": "OlnZ_0qkbfU",
     "lang": "",
     "t": "THE GREAT WALL : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
   },
   {
-    "channel": "SparkTV",
-    "date": "2025-03-12",
-    "id": "PMeHdc25BGE",
-    "lang": "",
-    "t": "Lost in Love | Full Romance Movie | Sara Fletcher | Nick Ferry"
-  },
-  {
-    "channel": "Lightright group",
-    "date": "2025-06-12",
-    "id": "BPQOf-aPa0A",
-    "lang": "en",
-    "t": "The Choice That Changed His Life Forever - Born Again - Free Full Movies in English"
-  },
-  {
-    "channel": "VISMAX PRO",
-    "date": "2025-10-12",
-    "id": "XMLBXXPX4QA",
-    "lang": "",
-    "t": "THIS IS A MOVIE YOU’LL WANT TO WATCH OVER AND OVER AGAIN! | Romantic Movies | Follow Your Heart"
-  },
-  {
     "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
     "date": "2026-01-12",
     "id": "D2NnL3iSJhI",
     "lang": "",
     "t": "AURORA : Angelina Jolie | New Action Movie 2025 | Full Movie 4K #actionmovies"
   },
   {
-    "channel": "Ag Qara HD",
-    "date": "2026-02-28",
-    "id": "KsrALI7Pxc8",
-    "lang": "",
-    "t": "One Man. One Mission. Total Chaos. | Full Action Movie HD"
+    "channel": "Boxoffice | ROMANCE | Full Movies",
+    "cid": "@BoxofficeRomantic",
+    "date": "2025-12-12",
+    "id": "9vaAYTXTxbA",
+    "lang": "en",
+    "t": "Endless Love | ROMANCE | Full Movie in English"
   },
   {
-    "channel": "Legend Shadows",
+    "channel": "English Movie Cafe",
+    "cid": "@EnglishMovieCafe",
+    "date": "2025-11-12",
+    "id": "hWdNoaGDj8I",
+    "lang": "en",
+    "t": "Soundarya English Romantic Movie | Super Singer (Raja) English Dubbed Full Movie | Venkatesh | Abbas"
+  },
+  {
+    "channel": "OML",
+    "cid": "@OMLTelevision",
+    "date": "2026-02-12",
+    "id": "uAwmJv9z4rM",
+    "lang": "",
+    "t": "The Sunlight Through The Gaps in the Trees | Lesbian Romance Short Film"
+  },
+  {
+    "channel": "Bruk Leris",
+    "cid": "@Islamictech-j9g",
     "date": "2026-03-11",
-    "id": "cKKIOqKInf0",
+    "id": "bBBYsayTV2g",
     "lang": "",
-    "t": "Krait 2 || New Action Movie 2026 | Chris Hemsworth & Margot Robbie | Full Movie | 4K #actionmovies"
-  },
-  {
-    "channel": "English Premier Movies",
-    "date": "2025-10-12",
-    "id": "d57PPYggs8A",
-    "lang": "en",
-    "t": "New English Love Story Movie | Empty Pocket English Dubbed Movie | Tanvi Ram | Dhyan | Part 1"
-  },
-  {
-    "channel": "English Premier Movies",
-    "date": "2026-03-01",
-    "id": "DC-benF-53M",
-    "lang": "en",
-    "t": "Romantic Thriller Movie | Seenu English Dubbed Full Movie 4K | Venkatesh | Shashi | Twinkle Khanna"
+    "t": "Apocalypto part 2 Full Movie (2026) #apocalypse"
   },
   {
     "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
     "date": "2026-03-01",
     "id": "q7ucHi_gILY",
     "lang": "",
     "t": "THE HARD TARGET : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
   },
   {
-    "channel": "ZED Drama",
-    "date": "2026-03-08",
-    "id": "Ouu9uny2Ztg",
+    "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
+    "date": "2026-03-06",
+    "id": "9ZbCG_Awg1o",
     "lang": "",
-    "t": "THE GREAT WALL (2026) Angelina Jolie - Jackie Chan | New Action Movie | 4K HDR #actionmovies"
+    "t": "MRS & THE DOG : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
   },
   {
-    "channel": "Secret Cinema",
-    "date": "2025-03-12",
-    "id": "BoxWnPvUFtI",
+    "channel": "Boxoffice | DRAMES | Film Complets",
+    "cid": "@BoxOfficeDRAMES",
+    "date": "2026-01-12",
+    "id": "Qug9rfx_JzY",
     "lang": "en",
-    "t": "NEW Action Movie 2024 JASON STATHAM Full Movie English Action Movies 2024"
+    "t": "Passion & Perdition | Full Movie (English Subtitles) | Drama"
+  },
+  {
+    "channel": "Movie Time English",
+    "cid": "@MovieTimeEnglish-u6s",
+    "date": "2026-02-12",
+    "id": "-77zttYZ99w",
+    "lang": "",
+    "t": "YOU CAN’T MISS THIS! 🎬 Tribes Fight Back in the Jungle | Full Action Adventure Movie"
+  },
+  {
+    "channel": "Off Screen Lab",
+    "cid": "@OffScreenLab-l9j",
+    "date": "2026-03-10",
+    "id": "5WkLqmClrDY",
+    "lang": "",
+    "t": "Don’t watch this movie at night — you won’t be able to handle it! | Horror Full Movie, Mystery 🎬"
+  },
+  {
+    "channel": "Ag Qara HD",
+    "cid": "@AgQaraHD",
+    "date": "2026-02-28",
+    "id": "KsrALI7Pxc8",
+    "lang": "",
+    "t": "One Man. One Mission. Total Chaos. | Full Action Movie HD"
+  },
+  {
+    "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
+    "date": "2026-02-19",
+    "id": "WlKCMdmvbOk",
+    "lang": "",
+    "t": "BLACK SCRAB : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
+  },
+  {
+    "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
+    "date": "2026-02-12",
+    "id": "pBS9xbw0upk",
+    "lang": "",
+    "t": "BAD WOMEN : Angelina Jolie, Scarlett Johansson | New Action Movie 2026 | Full Movie 4K #actionmovies"
+  },
+  {
+    "channel": "SparkTV",
+    "cid": "@SparkTVMovies",
+    "date": "2025-03-12",
+    "id": "PMeHdc25BGE",
+    "lang": "",
+    "t": "Lost in Love | Full Romance Movie | Sara Fletcher | Nick Ferry"
+  },
+  {
+    "channel": "FILMDOMINION",
+    "cid": "@FILMDOMINION",
+    "date": "2026-01-12",
+    "id": "3V6JvHba_C0",
+    "lang": "",
+    "t": "🎬HIGHLY RECOMMENDED TO WATCH THIS MOVIE! High-Rated Adventure Action Film | Watch Now"
   },
   {
     "channel": "TwosAnimations",
+    "cid": "@twosanimations-z00",
     "date": "2026-02-12",
     "id": "gTs_gedpGUs",
     "lang": "",
@@ -99,6 +145,7 @@
   },
   {
     "channel": "Zero Hour",
+    "cid": "@ZeroHour-4k",
     "date": "2025-12-12",
     "id": "Y5WncJVdbzQ",
     "lang": "",
@@ -106,48 +153,7 @@
   },
   {
     "channel": "Joy Drama",
-    "date": "2026-02-19",
-    "id": "WlKCMdmvbOk",
-    "lang": "",
-    "t": "BLACK SCRAB : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
-  },
-  {
-    "channel": "Indo Overseas Films",
-    "date": "2025-11-12",
-    "id": "sRPo4tdIKlo",
-    "lang": "en",
-    "t": "CALL OF DUTY (2025) | English | Latest Hollywood Blockbuster Full Action Movie"
-  },
-  {
-    "channel": "Joy Drama",
-    "date": "2026-03-10",
-    "id": "85aKbSselPM",
-    "lang": "",
-    "t": "NOIR AGENT : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
-  },
-  {
-    "channel": "FreshDramaPro",
-    "date": "2025-07-12",
-    "id": "ZiqtPF8eimg",
-    "lang": "",
-    "t": "Love at first sight! CEO is enchanted by a girl selling water for her tuition"
-  },
-  {
-    "channel": "Movie Time English",
-    "date": "2026-02-12",
-    "id": "-77zttYZ99w",
-    "lang": "",
-    "t": "YOU CAN’T MISS THIS! 🎬 Tribes Fight Back in the Jungle | Full Action Adventure Movie"
-  },
-  {
-    "channel": "Majestic Movies",
-    "date": "2025-03-12",
-    "id": "W1D0puderfs",
-    "lang": "en",
-    "t": "CHASE - Hollywood Action Full Movie | Free Movies | English Movie"
-  },
-  {
-    "channel": "Joy Drama",
+    "cid": "@JoyDrama2",
     "date": "2026-02-26",
     "id": "0U76IPSfn7k",
     "lang": "",
