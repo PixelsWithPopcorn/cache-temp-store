@@ -1,43 +1,379 @@
 [
   {
-    "channel": "English Premier Movies",
-    "cid": "@EnglishPremierMovies",
-    "date": "2026-02-12",
-    "id": "I0cJyE_Aqew",
-    "lang": "en",
-    "t": "New English Romantic Thriller Movie | Pyar Prema Kadhal English Dubbed Full Movie 4K | Raiza Wilson"
-  },
-  {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-03-11",
-    "id": "OlnZ_0qkbfU",
-    "lang": "",
-    "t": "THE GREAT WALL : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
-  },
-  {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-01-12",
-    "id": "D2NnL3iSJhI",
-    "lang": "",
-    "t": "AURORA : Angelina Jolie | New Action Movie 2025 | Full Movie 4K #actionmovies"
-  },
-  {
-    "channel": "Boxoffice | ROMANCE | Full Movies",
-    "cid": "@BoxofficeRomantic",
+    "channel": "Ultra 4K Movies",
+    "cid": "@Ultramovies4k",
     "date": "2025-12-12",
-    "id": "9vaAYTXTxbA",
-    "lang": "en",
-    "t": "Endless Love | ROMANCE | Full Movie in English"
+    "id": "Plrg0XP6gZg",
+    "lang": "",
+    "t": "Naam Shabana 2017 Action Full Movie 4K | Akshay Kumar, Taapsee Pannu, Manoj Bajpayee, Prithviraj"
   },
   {
-    "channel": "English Movie Cafe",
-    "cid": "@EnglishMovieCafe",
+    "channel": "Xʏᴢ Rנ Mᴜsɪᴄツ",
+    "cid": "@DjRahulRajnagar",
+    "date": "2026-01-12",
+    "id": "3HNTe-zn0Rc",
+    "lang": "hi",
+    "t": "Lucky Bhaskar (2025) | Dalquer Salmaan Hindi Dubbed Full Movie | South Blockbuster | Full HD Movie"
+  },
+  {
+    "channel": "Sur Movies Exclusive and 2 more",
+    "cid": "",
+    "date": "2026-03-07",
+    "id": "aN1XjJmKh-0",
+    "lang": "hi",
+    "t": "Rangoli (2026) Hamaresh, Prarthana South New Full Movie | 2026 South Latest Hindi Dubbed Movie In 4K"
+  },
+  {
+    "channel": "South Hungama Movies",
+    "cid": "@SouthHungamaMovies-n2x",
+    "date": "2026-02-12",
+    "id": "-cEU4HjAQqw",
+    "lang": "hi",
+    "t": "HE AND SHE | South Hindi Dubbed Action Romantic Romantic Movie Full HD 1080p | Haneesh, Chira Shri"
+  },
+  {
+    "channel": "Ultra Movie Parlour",
+    "cid": "@UltraMovieParlour",
+    "date": "2026-02-26",
+    "id": "ipk36X8UUPI",
+    "lang": "hi",
+    "t": "Shaadi Ke Side Effects (2014) Full Hindi Movie (4K) Farhan Akhtar & Vidya Balan | Bollywood Movie"
+  },
+  {
+    "channel": "Story Unlocked Cinema",
+    "cid": "@Storyunlockedcinema",
+    "date": "2026-02-12",
+    "id": "1JkhaUX3BKM",
+    "lang": "hi",
+    "t": "Varanasi (Hindi Dubbed) | Mahesh Babu New South Action Movie | Full Action Thriller Movie | HD"
+  },
+  {
+    "channel": "Movie Record South",
+    "cid": "@movierecordsouth",
+    "date": "2026-03-03",
+    "id": "xtpPQuysUBI",
+    "lang": "hi",
+    "t": "Magadheera 2 Full Hindi Dubbed Movie 2026 | Ram Charan, Kajal Aggarwal,Rajamouli | South Blockbuster"
+  },
+  {
+    "channel": "RDC Silver Screen",
+    "cid": "@RDCSilverScreenOfficial",
+    "date": "2026-02-19",
+    "id": "GY7Tdi6-AW0",
+    "lang": "",
+    "t": "Nithya Menon\" Released South Indian Urdu Dubbed Full Romantic Love Story Movie | New South Movie"
+  },
+  {
+    "channel": "THE MOVIE WORLD",
+    "cid": "@marvel_world_09",
+    "date": "2026-02-12",
+    "id": "ZOOofT_rRz8",
+    "lang": "hi",
+    "t": "OG: Gangster (2026) | Pawan Kalyan, Emran Hashmi Hindi Dubbed Action Crime Movie | Full HD Movie"
+  },
+  {
+    "channel": "Ultra Movie Parlour",
+    "cid": "@UltraMovieParlour",
+    "date": "2026-03-01",
+    "id": "UM54pRjkfos",
+    "lang": "hi",
+    "t": "Pad Man (2018) Full Hindi Movie (4K) | Akshay Kumar, Radhika Apte & Sonam Kapoor | Inspring Movie"
+  },
+  {
+    "channel": "Ultra Bollywood",
+    "cid": "@UltraBollywood",
+    "date": "2026-02-28",
+    "id": "YHK4M7ZyTKo",
+    "lang": "hi",
+    "t": "A Flying Jatt (2016) Full Hindi Movie 4K | Tiger Shroff | Jacqueline Fernandez | Nathan Jones"
+  },
+  {
+    "channel": "Movies Club",
+    "cid": "@Movies_Clubx",
+    "date": "2026-03-11",
+    "id": "ylGn3EwnuW8",
+    "lang": "hi",
+    "t": "Top 9 New South Indian Suspense Thriller Movies in Hindi 2026 | South Murder Mystery Movies in Hindi"
+  },
+  {
+    "channel": "Chaupal",
+    "cid": "@ChaupalOTT",
+    "date": "2026-03-08",
+    "id": "tez2feKog64",
+    "lang": "",
+    "t": "Aaja Mexico Challiye | Latest Punjabi Movies | Ammy Virk | Chaupal | Nasir Chinyoti | Punjabi Films"
+  },
+  {
+    "channel": "MOVIEMADS TELUGU",
+    "cid": "@MOVIEMADS1",
+    "date": "2026-03-11",
+    "id": "87yyFb-6MOA",
+    "lang": "",
+    "t": "Best Netflix OTT thriller movies | Seat edge thrillers | crime investigation thrillers top webseries"
+  },
+  {
+    "channel": "South Mewal Films",
+    "cid": "@SouthMewalFilms",
+    "date": "2026-02-19",
+    "id": "aAqW1Ix11X4",
+    "lang": "hi",
+    "t": "FARMER Mahesh Babu South Indian Hindi Dubbed Full Movie || South Latest New Released Movie 2026"
+  },
+  {
+    "channel": "Movie Forever",
+    "cid": "@MovieForeverMedia",
+    "date": "2026-03-02",
+    "id": "1Jx4ETBWO7Q",
+    "lang": "hi",
+    "t": "Thalapathy Vijay & Sreeleela Full Action Movie 2026 | Charminar | Latest South Indian Movie in Hindi"
+  },
+  {
+    "channel": "Moviewood Cinema",
+    "cid": "@MoviewoodCinema",
+    "date": "2026-02-12",
+    "id": "aDBPzcBXjbY",
+    "lang": "hi",
+    "t": "MUMBAI FILES Full Action Movie | Salman Khan | Sanjay Dutt | Ali Fazal | Bollywood Full Hindi Movie"
+  },
+  {
+    "channel": "Cine South Cinema",
+    "cid": "@CineSouthCinema",
+    "date": "2026-03-03",
+    "id": "2rimJYGU5iI",
+    "lang": "",
+    "t": "HINDU MUSLIM Full Movie | Akshay Kumar | Paresh Rawal | Latest Bollywood Religious Movie 2026"
+  },
+  {
+    "channel": "黑帮战神-Movie House",
+    "cid": "@GangsterFighterMovieHouse",
+    "date": "2026-02-12",
+    "id": "qzzy7nKEsQs",
+    "lang": "",
+    "t": "Thrilling Action Movie: Corrupt cops betray and slaughter colleagues, then get executed by the boss!"
+  },
+  {
+    "channel": "SDE Movieplex",
+    "cid": "@sdemovieplex",
+    "date": "2026-02-12",
+    "id": "7pArhkQ9Q_g",
+    "lang": "hi",
+    "t": "Governor Saab - Mahesh Babu South Indian Full Action Movie Dubbed In Hindi | Superhit Movies"
+  },
+  {
+    "channel": "Plastic Cinema",
+    "cid": "@PlasticCinemas",
+    "date": "2026-03-04",
+    "id": "3z6ceeN0k_c",
+    "lang": "hi",
+    "t": "BHIKHARI | New Hindi Movie 2026 - Hrithik Roshan & Kajol Devgan | New Bollywood Full Action Movies"
+  },
+  {
+    "channel": "South Action Dhamaka",
+    "cid": "@southactiondhamaka6329",
+    "date": "2026-02-12",
+    "id": "Pm6tHX12Qm0",
+    "lang": "hi",
+    "t": "Dulha Wanted (Hindi Dubbed) - Full Movie | Hebah Patel | Rao Ramesh | Tejaswi Madivada | Nasser"
+  },
+  {
+    "channel": "Trending Movies World",
+    "cid": "@Trendingmoviesworld-x8f",
+    "date": "2026-02-19",
+    "id": "1sAiu-opGU0",
+    "lang": "hi",
+    "t": "Ram Charan South New Hindi Dubbed Full Hd Movie 2026 | विधायक | Latest South Blockbuster South Movie"
+  },
+  {
+    "channel": "Netplex Movies 2026",
+    "cid": "@NetplexMovies2026",
+    "date": "2026-02-12",
+    "id": "-V6tMjTlow0",
+    "lang": "hi",
+    "t": "MR WHITE MR BLACK Full Movie | New (2025) Released Bollywood Hindi Movie | Bollywood Comedy Movie"
+  },
+  {
+    "channel": "Feel Good Movies",
+    "cid": "@UltraGoodMovies",
+    "date": "2025-03-12",
+    "id": "zGHKlK5Napc",
+    "lang": "hi",
+    "t": "क्या टाइम आ गया है भिखारियो के साथ सोना पड़ रहा है - Vijay Raaz Comedy | Run Movie | Feel Good Movies"
+  },
+  {
+    "channel": "Shemaroo Comedy",
+    "cid": "@shemaroobollywoodcomedy",
+    "date": "2022-03-12",
+    "id": "A8h7Atk5sX4",
+    "lang": "",
+    "t": "Dhol | Superhit Comedy Movie | Rajpal Yadav - Sharman Joshi - Tusshar Kapoor - Kunal Khemu"
+  },
+  {
+    "channel": "Shemaroo Comedy",
+    "cid": "@shemaroobollywoodcomedy",
+    "date": "2022-03-12",
+    "id": "4g4vr2Zi4Ec",
+    "lang": "",
+    "t": "Best of Comedy Scenes | Movie Mere Baap Phele Aap | Paresh Rawal - Rajpal Yadav - Akshay Khanna"
+  },
+  {
+    "channel": "Primetime Action Movies",
+    "cid": "@PrimetimeActionMovies",
     "date": "2025-11-12",
-    "id": "hWdNoaGDj8I",
+    "id": "1DNgsmtXpD0",
+    "lang": "hi",
+    "t": "Intelligent Hacker - South Movie Hindi Dubbed | Unni Mukundan, Mahima Nambiar | 2025 Hacking Movie"
+  },
+  {
+    "channel": "PlayNation",
+    "cid": "@playnation02",
+    "date": "2026-02-12",
+    "id": "jTiPJTTr744",
+    "lang": "hi",
+    "t": "MANIPULATOR | Akshay Kumar, Rakul Preet | New (2026) Hindi Action Crime Thriller Movie | Full HD"
+  },
+  {
+    "channel": "PlayNation",
+    "cid": "@playnation02",
+    "date": "2026-02-12",
+    "id": "N163AlmeDYY",
+    "lang": "hi",
+    "t": "ELIMINATOR | Vidyut Jammwal, Nora Fatehi | New (2026) Hindi Action Crime Thriller Movie | Full HD"
+  },
+  {
+    "channel": "Moviewood Cinema",
+    "cid": "@MoviewoodCinema",
+    "date": "2026-02-19",
+    "id": "IHod3HPfYVw",
+    "lang": "",
+    "t": "INDIAN IN PAKISTAN (Full Movie) Shahid Kapoor | Deepika Padukone | New Bollywood Action Movie 2026"
+  },
+  {
+    "channel": "Aditya Movies and Aditya Dumdaar Dubbed Movies",
+    "cid": "",
+    "date": "2025-12-12",
+    "id": "VDFys9V9poQ",
+    "lang": "hi",
+    "t": "Extra Ordinary Man Hindi Dubbed Full Movie 2025 | Nithiin | Sreeleela | Rajasekhar | South New Movie"
+  },
+  {
+    "channel": "Tollywood Box Office",
+    "cid": "@tollywoodboxoffice",
+    "date": "2026-02-26",
+    "id": "PYpBvVKnwfs",
+    "lang": "",
+    "t": "Superstar Rajinikanth Jailer Telugu Superhit Full HD Film | Mohanlal | Tamanna | Shivraj Kumar"
+  },
+  {
+    "channel": "Magic Magy",
+    "cid": "@MagicMagy",
+    "date": "2026-03-11",
+    "id": "J5CmT_MIxAI",
+    "lang": "",
+    "t": "300 (2006) is incredible…MOVIE REACTION First Time Watching"
+  },
+  {
+    "channel": "Movieline studio",
+    "cid": "@Movielinestudio-l8q",
+    "date": "2026-02-12",
+    "id": "UFxixrIAH5A",
     "lang": "en",
-    "t": "Soundarya English Romantic Movie | Super Singer (Raja) English Dubbed Full Movie | Venkatesh | Abbas"
+    "t": "She decides to start from scratch! | Comedy Romance Movie | Free English"
+  },
+  {
+    "channel": "Generator Productions",
+    "cid": "@GeneratorProductions-Official",
+    "date": "2026-02-26",
+    "id": "8ppGP8z7Xno",
+    "lang": "",
+    "t": "PK FULL MOVIE (AAMIR KHAN) REPRESENTED BY GENERATOR PRODUCTION"
+  },
+  {
+    "channel": "SDE Movieplex",
+    "cid": "@sdemovieplex",
+    "date": "2026-03-06",
+    "id": "wjVLnrdoP2o",
+    "lang": "hi",
+    "t": "Vijaybhava: The Rise of Kingdom (2026) New Released Full Hindi Dubbed Movie | Vijay Deverakonda"
+  },
+  {
+    "channel": "Bollwood Cinema Hindi",
+    "cid": "@bollywoodcinemahindinew",
+    "date": "2026-03-03",
+    "id": "aNHRW48e1No",
+    "lang": "",
+    "t": "BHIKHARI Full Movie 2026 | Hrithik Roshan & Kajol Devgan | New Bollywood Full Action Movie 2026"
+  },
+  {
+    "channel": "BYA Media",
+    "cid": "@byamedia9050",
+    "date": "2026-02-19",
+    "id": "v4IO_axoXi0",
+    "lang": "hi",
+    "t": "Operation Blackfile (2026) Full Hindi Dubbed Action Movie | Mahesh Babu New South Blockbuster Movie"
+  },
+  {
+    "channel": "Ultra Bollywood",
+    "cid": "@UltraBollywood",
+    "date": "2026-02-19",
+    "id": "SE8IN3gf8A4",
+    "lang": "hi",
+    "t": "Jabariya Jodi (2019) Full Hindi Movie 4K | जबरिया जोड़ी | Sidharth Malhotra | Parineeti Chopra"
+  },
+  {
+    "channel": "Epic Movie Nexus",
+    "cid": "@EpicMovieNexus-su5no",
+    "date": "2026-01-12",
+    "id": "BegTKlG5jxk",
+    "lang": "",
+    "t": "This Movie Is Perfect for a Relaxing Evening Just for You 💖 Looking For Dr. Love | Romance"
+  },
+  {
+    "channel": "Sci-Fi City",
+    "cid": "@Sci-FiCityOfficial",
+    "date": "2026-01-12",
+    "id": "nW6PSBUzne8",
+    "lang": "",
+    "t": "Zathura: A Space Adventure | FREE MOVIE (Josh Hutcherson, Jonah Bobo, Dax Shepard)"
+  },
+  {
+    "channel": "Andhra Talkies",
+    "cid": "@AndhraTalkies01",
+    "date": "2026-03-01",
+    "id": "6b-Tk5JlsR0",
+    "lang": "",
+    "t": "WARRIOR (వారియర్) | Vishal, Keerthy Suresh New Telugu MASS Action Drama | Full HD Movie"
+  },
+  {
+    "channel": "Maa Cinemalu",
+    "cid": "@tfcmaacinemalu",
+    "date": "2026-02-26",
+    "id": "5s0hqn5TooM",
+    "lang": "",
+    "t": "Lucky Bhaskar Black Comedy-Crime Telugu Full HD Film | Dulquer Salmaan And Meenakshi Chaudhary"
+  },
+  {
+    "channel": "Total Flick",
+    "cid": "@TotalFlick",
+    "date": "2026-02-12",
+    "id": "yHcgphaEhPc",
+    "lang": "",
+    "t": "This Movie Wonʼt let You Sleep! | Lonely Highway Becomes a Death Trap | Crime Thriller"
+  },
+  {
+    "channel": "Star Movie Dhamaka",
+    "cid": "@StarMovieDhamaka",
+    "date": "2026-03-01",
+    "id": "8dn5KGXQpHo",
+    "lang": "hi",
+    "t": "Donnie Yen's CAGED - Hollywood Movie In Hindi Dubbed 2026 | Michelle Bai | New Chinese Action Movie"
+  },
+  {
+    "channel": "Pandora's box of Movies",
+    "cid": "@PandorasboxofMovies-b2p",
+    "date": "2026-02-12",
+    "id": "DB7Gswf_NBE",
+    "lang": "",
+    "t": "An ACTION movie that will be remembered for a long time! | The Yakuza never lose at darts | Movie 4K"
   },
   {
     "channel": "OML",
@@ -48,115 +384,347 @@
     "t": "The Sunlight Through The Gaps in the Trees | Lesbian Romance Short Film"
   },
   {
-    "channel": "Bruk Leris",
-    "cid": "@Islamictech-j9g",
-    "date": "2026-03-11",
-    "id": "bBBYsayTV2g",
+    "channel": "Haris Cinemas",
+    "cid": "@HarisCinemaChannel",
+    "date": "2026-02-26",
+    "id": "yEZgyHuS93s",
     "lang": "",
-    "t": "Apocalypto part 2 Full Movie (2026) #apocalypse"
+    "t": "Kunthi (2026) | Latest Tamil Horror Movie 4k | Shamna Kasim | Gitanjali | Kumar | Haris Cinemas"
   },
   {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-03-01",
-    "id": "q7ucHi_gILY",
+    "channel": "Heartfelt Movies - Full Movies Online",
+    "cid": "@HeartfeltMoviesChannel",
+    "date": "2026-02-26",
+    "id": "TV1ob2S28SM",
     "lang": "",
-    "t": "THE HARD TARGET : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
+    "t": "Sister Dating Swap (2023) | Full Movie | Romantic Comedy"
   },
   {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-03-06",
-    "id": "9ZbCG_Awg1o",
-    "lang": "",
-    "t": "MRS & THE DOG : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
+    "channel": "Movies University",
+    "cid": "@MoviesUniversitys",
+    "date": "2026-03-04",
+    "id": "hpugLT0Xxm0",
+    "lang": "hi",
+    "t": "DO BHAI (2026) Ram Charan South New Hindi Dubbed Full Movie | Latest South Blockbuster South Movie"
   },
   {
-    "channel": "Boxoffice | DRAMES | Film Complets",
-    "cid": "@BoxOfficeDRAMES",
-    "date": "2026-01-12",
-    "id": "Qug9rfx_JzY",
-    "lang": "en",
-    "t": "Passion & Perdition | Full Movie (English Subtitles) | Drama"
-  },
-  {
-    "channel": "Movie Time English",
-    "cid": "@MovieTimeEnglish-u6s",
-    "date": "2026-02-12",
-    "id": "-77zttYZ99w",
-    "lang": "",
-    "t": "YOU CAN’T MISS THIS! 🎬 Tribes Fight Back in the Jungle | Full Action Adventure Movie"
-  },
-  {
-    "channel": "Off Screen Lab",
-    "cid": "@OffScreenLab-l9j",
-    "date": "2026-03-10",
-    "id": "5WkLqmClrDY",
-    "lang": "",
-    "t": "Don’t watch this movie at night — you won’t be able to handle it! | Horror Full Movie, Mystery 🎬"
-  },
-  {
-    "channel": "Ag Qara HD",
-    "cid": "@AgQaraHD",
-    "date": "2026-02-28",
-    "id": "KsrALI7Pxc8",
-    "lang": "",
-    "t": "One Man. One Mission. Total Chaos. | Full Action Movie HD"
-  },
-  {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
+    "channel": "Bollwood Cinema Hindi",
+    "cid": "@bollywoodcinemahindinew",
     "date": "2026-02-19",
-    "id": "WlKCMdmvbOk",
-    "lang": "",
-    "t": "BLACK SCRAB : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
+    "id": "QCFPjkTARkM",
+    "lang": "hi",
+    "t": "The TAJ Story Official Hindi Movie 2026 | Paresh Rawal, Zakir Hussain, Amruta | New Bollywood Movie"
   },
   {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-02-12",
-    "id": "pBS9xbw0upk",
+    "channel": "Hollywood Bytes",
+    "cid": "@HollywoodBytes-p5p",
+    "date": "2026-03-05",
+    "id": "3ETFieM-miw",
     "lang": "",
-    "t": "BAD WOMEN : Angelina Jolie, Scarlett Johansson | New Action Movie 2026 | Full Movie 4K #actionmovies"
+    "t": "Transporter 5 : New Action Movie | Jason Statham | Full Movie | 4K Ultra #actionmovies"
+  },
+  {
+    "channel": "IOF - Tamil",
+    "cid": "@IndoOverseasFilms-Tamil",
+    "date": "2026-02-12",
+    "id": "X2DBm0jNtwI",
+    "lang": "",
+    "t": "Legend of Chef | Tamil Dubbed Full Movie | Action Drama Blockbuster"
+  },
+  {
+    "channel": "Ultra 4K Movies",
+    "cid": "@Ultramovies4k",
+    "date": "2026-01-12",
+    "id": "UoXePCNDDEE",
+    "lang": "hi",
+    "t": "Ravi Teja New Release South Action RAMARAO ON DUTY 2025 Hindi Dubbed Movie 4K | Anveshi, Rajisha"
+  },
+  {
+    "channel": "Deep Direct Dive",
+    "cid": "@Deep_Direct_Dive",
+    "date": "2025-04-12",
+    "id": "RUhfTpUQ8eo",
+    "lang": "en",
+    "t": "The Sharks Return to Finish | Best horror movie | Free full movies on youtube in English 4K"
+  },
+  {
+    "channel": "Bollwood Cinema Hindi",
+    "cid": "@bollywoodcinemahindinew",
+    "date": "2026-02-27",
+    "id": "5ImVhJxf3RY",
+    "lang": "hi",
+    "t": "Peddi Full Movie Hindi Dubbed 2026 | Ram Charan New Movie 2026 | Janhvi K | Latest South Movie 2026"
+  },
+  {
+    "channel": "Maa Cinemalu",
+    "cid": "@tfcmaacinemalu",
+    "date": "2026-02-12",
+    "id": "WWqcIznd-OI",
+    "lang": "",
+    "t": "Sita Rom-Action Telugu Full HD Film | Kajal Aggarwal | Bellamkonda Sreenivas @tfcmaacinemalu"
+  },
+  {
+    "channel": "Golden Lens",
+    "cid": "@GoldenLensss",
+    "date": "2026-03-06",
+    "id": "7X6j9z9Rqtw",
+    "lang": "",
+    "t": "DON’T OPEN THE DOOR FOR HER | Horror Thriller Full Movie | Evil, Fear, Madness"
+  },
+  {
+    "channel": "CineDrama",
+    "cid": "@CineDrama-88",
+    "date": "2026-02-26",
+    "id": "HjC-_os-or4",
+    "lang": "",
+    "t": "Girl Helps Bullied Old Lady, Shocked Become Billionaire Granddaughter-in-Law, Marries Dotting CEO"
+  },
+  {
+    "channel": "Andhra Talkies",
+    "cid": "@AndhraTalkies01",
+    "date": "2026-03-07",
+    "id": "PEGwBV5Ados",
+    "lang": "",
+    "t": "GOOGLE (గూగుల్) | Santhanam, Namita Krishnamurthy New Telugu Road Action Comedy | Full HD Movie"
+  },
+  {
+    "channel": "Mango Indian Films",
+    "cid": "@indianfilms",
+    "date": "2026-02-12",
+    "id": "MGT56JgL75c",
+    "lang": "",
+    "t": "Size Zero Latest Full Movie 4K | Anushka Shetty | Arya | MM Keeravani | Tamil | Mango Indian Films"
+  },
+  {
+    "channel": "Tanvi Rao",
+    "cid": "@tanvirao3358",
+    "date": "2026-01-12",
+    "id": "6Q3DY0Ln50A",
+    "lang": "hi",
+    "t": "LAALACH Full Movie Hindi 🔥 | Akshay Kumar | Deepika Padukone | New Blockbuster"
+  },
+  {
+    "channel": "Actionmovie pictures",
+    "cid": "@Actionmoviepictures-n8b",
+    "date": "2026-01-12",
+    "id": "wc9jxkyQpFM",
+    "lang": "",
+    "t": "🎬This thriller took the USA by storm! A powerful drama with a shocking ending | Full Movie"
+  },
+  {
+    "channel": "Edgy Animation Films",
+    "cid": "@edgyanimationfilms8418",
+    "date": "2026-01-12",
+    "id": "b9y2fgummsA",
+    "lang": "",
+    "t": "Checkered Ninja | Full Animated Adventure Movie"
+  },
+  {
+    "channel": "Adwise Cinema Studio",
+    "cid": "@AdwiseCinemaStudio",
+    "date": "2026-02-19",
+    "id": "p5mfXkknrq4",
+    "lang": "hi",
+    "t": "''Darinda Doctor'' | Full Blockbuster Triller Movie in Hindi Dubbed | New South Thriller Movie."
+  },
+  {
+    "channel": "Girls Night In",
+    "cid": "@GirlsNightInMovies",
+    "date": "2026-03-08",
+    "id": "ulacYM_ZfYI",
+    "lang": "",
+    "t": "Strike of Love FULL MOVIE | Romance Movies | Cameron Love | Girls Night In Movies"
   },
   {
     "channel": "SparkTV",
     "cid": "@SparkTVMovies",
-    "date": "2025-03-12",
-    "id": "PMeHdc25BGE",
+    "date": "2026-03-07",
+    "id": "troQZ0khV50",
     "lang": "",
-    "t": "Lost in Love | Full Romance Movie | Sara Fletcher | Nick Ferry"
+    "t": "Love’s Portrait | Beautiful Romance Movie Filmed in Ireland"
   },
   {
-    "channel": "FILMDOMINION",
-    "cid": "@FILMDOMINION",
-    "date": "2026-01-12",
-    "id": "3V6JvHba_C0",
-    "lang": "",
-    "t": "🎬HIGHLY RECOMMENDED TO WATCH THIS MOVIE! High-Rated Adventure Action Film | Watch Now"
-  },
-  {
-    "channel": "TwosAnimations",
-    "cid": "@twosanimations-z00",
-    "date": "2026-02-12",
-    "id": "gTs_gedpGUs",
-    "lang": "",
-    "t": "Zootopia - Frostline | Full Fan Film"
-  },
-  {
-    "channel": "Zero Hour",
-    "cid": "@ZeroHour-4k",
+    "channel": "Hollywood Express - New",
+    "cid": "@HollywoodExpressNew",
     "date": "2025-12-12",
-    "id": "Y5WncJVdbzQ",
-    "lang": "",
-    "t": "Mission SPY: New Action Movie | Jason Statham | Full Movie | 4K Ultra #actionmovies"
+    "id": "7mZcpJnZrhg",
+    "lang": "hi",
+    "t": "Veil of Bones | New 2025 Hollywood Movie in Hindi Dubbed | Blockbuster Action Thriller Trending Film"
   },
   {
-    "channel": "Joy Drama",
-    "cid": "@JoyDrama2",
-    "date": "2026-02-26",
-    "id": "0U76IPSfn7k",
+    "channel": "iDream Media and 3 more",
+    "cid": "",
+    "date": "2025-11-12",
+    "id": "E8FGxBH9rNw",
     "lang": "",
-    "t": "PRISON IN HELL : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies"
+    "t": "Katha Kamamishu 2025 Full Telugu 4K Movie | Indraja, Venkatesh Kakumanu | RR Dhruvan | iDream Media"
+  },
+  {
+    "channel": "Movie union",
+    "cid": "@Movieunion1",
+    "date": "2025-11-12",
+    "id": "k6zH7dB0FiQ",
+    "lang": "",
+    "t": "Action Movie Based on True Story! To End All Wars | Full movies"
+  },
+  {
+    "channel": "Fighting Spirit",
+    "cid": "@Fighting.Spirit",
+    "date": "2026-01-12",
+    "id": "vnOgVa7U4iU",
+    "lang": "",
+    "t": "Jean-Claude Van Damme - Red Eagle (1988) The ultimate weapon"
+  },
+  {
+    "channel": "Mango Telugu Cinema",
+    "cid": "@telugucinema",
+    "date": "2026-02-12",
+    "id": "zPvlNwPoL1c",
+    "lang": "",
+    "t": "Aadivaram Adavallaku Selavu Telugu Full Movie 4K | Sivaji | Brahmanandam | Suhasini | Kovai Sarala"
+  },
+  {
+    "channel": "IOF - Hindi",
+    "cid": "@IndoOverseasFilms-Hindi",
+    "date": "2026-02-12",
+    "id": "gMzE3ca7rG4",
+    "lang": "hi",
+    "t": "Pil’s Adventures (2026) | Hindi Dubbed Full Movie | Animated Blockbuster"
+  },
+  {
+    "channel": "Bollywood World",
+    "cid": "@BollywoodsWorld",
+    "date": "2026-03-01",
+    "id": "He-khjQSbjk",
+    "lang": "hi",
+    "t": "Mirai (2026) Full Hindi Dubbed Movie | Teja Sajja, Ritika Nayak | New South Action Thriller HD Movie"
+  },
+  {
+    "channel": "The Cinematics Stories",
+    "cid": "@TheCinematicsStories",
+    "date": "2026-03-06",
+    "id": "DpCSHMQzluM",
+    "lang": "",
+    "t": "HER DEADLY REFLECTIONS | Full Thriller Movie | Helena Mattsson, Corey Sevier, Melanie Stone"
+  },
+  {
+    "channel": "Best Drama Movies",
+    "cid": "@freebestdramamovies",
+    "date": "2026-02-26",
+    "id": "6IT3VCutv0I",
+    "lang": "",
+    "t": "Her Daughter’s Wedding… and Her Ex Returns | Full Comedy Drama"
+  },
+  {
+    "channel": "Take Care Action",
+    "cid": "@TakeCareAction",
+    "date": "2026-02-19",
+    "id": "WGWTtoetADo",
+    "lang": "hi",
+    "t": "Bullet Ravi Hindi Dubbed Full Movie | Ravi Teja Powerful Action Drama | South Indian HD Movie 2026"
+  },
+  {
+    "channel": "YORUBA CINEMA PLUS",
+    "cid": "@Yorubac",
+    "date": "2026-03-11",
+    "id": "u_uIeu4wczg",
+    "lang": "",
+    "t": "Ewon Okan | Latest Yoruba Movies 2026 Wunmi Toriola, Damilola Oni, Kiki Bakare, Temitope Aremu"
+  },
+  {
+    "channel": "Panth Cinema",
+    "cid": "@PanthCinema",
+    "date": "2026-02-26",
+    "id": "7O3TbAlAKuc",
+    "lang": "",
+    "t": "Bambukat 2 Full Movie 2026 | Ammy Virk | Simi Chahal | Gurpreet | New Superhit Punjabi Movie 2026"
+  },
+  {
+    "channel": "Cinematic Euphoria",
+    "cid": "@CinematicEuphoria",
+    "date": "2026-03-05",
+    "id": "Pkp9U7N-ihQ",
+    "lang": "en",
+    "t": "Deadlocked | English Full Movie"
+  },
+  {
+    "channel": "Redline Cinema",
+    "cid": "@RedlineCinema1",
+    "date": "2026-02-19",
+    "id": "qw62cpcgp_A",
+    "lang": "",
+    "t": "From Brooklyn Prodigy to Undisputed Heavyweight Champion of the World | Michael Jai White"
+  },
+  {
+    "channel": "GoldminesAction",
+    "cid": "@GoldminesActionMovies",
+    "date": "2026-02-26",
+    "id": "WWlXJ38lwpI",
+    "lang": "hi",
+    "t": "Theri (HD) - South Blockbuster Action Movie In Hindi l Vijay, Samantha Ruth Prabhu, Amy Jackson"
+  },
+  {
+    "channel": "Hallmark Movies",
+    "cid": "@HallmarkMovies",
+    "date": "2026-02-26",
+    "id": "iiFaXij24iI",
+    "lang": "",
+    "t": "Mix Up in the Mediterranean | Hallmark Movies - Jeremy Jordan & Jessica Lowndes"
+  },
+  {
+    "channel": "South Hindi Dubbed",
+    "cid": "@SouthHindiDub",
+    "date": "2026-02-12",
+    "id": "kcZpgaUoo1c",
+    "lang": "hi",
+    "t": "Brahmanandam ज़बरदस्त लोटपोट कॉमेडी मूवी | Mahesh Babu | POKIRI (2006) Superhit South Movies Illeana"
+  },
+  {
+    "channel": "Silver Digital Films",
+    "cid": "@SilverDigitalFilms",
+    "date": "2026-02-19",
+    "id": "GUhAPWa9rk4",
+    "lang": "",
+    "t": "Nikka Raja 2 Full Punjabi Movie 2026 | Ammy Virk | Sonam Bajwa | New Punjabi Superhit Full Movies"
+  },
+  {
+    "channel": "Razablade Tv",
+    "cid": "@RazabladeTv",
+    "date": "2026-03-09",
+    "id": "lvLj9C1O0Qg",
+    "lang": "",
+    "t": "Real Ghetto Story Full Jamaican Movie"
+  },
+  {
+    "channel": "PlayNation",
+    "cid": "@playnation02",
+    "date": "2026-03-04",
+    "id": "SYKMOzelekg",
+    "lang": "hi",
+    "t": "CARTEL | Suriya, Kajal Agarwal | New (2026) Released Hindi Action Crime Thriller Movie | Full HD"
+  },
+  {
+    "channel": "Sur Movis World",
+    "cid": "@surmovisword",
+    "date": "2026-03-02",
+    "id": "qT34WeHsDpE",
+    "lang": "hi",
+    "t": "Love Marriage | South Hindi Dubbed Action Romantic Movie Full Love Story | Maanas, Akshata | Movies"
+  },
+  {
+    "channel": "Kettle movie",
+    "cid": "@Kettlemovie-oj1tj",
+    "date": "2026-01-12",
+    "id": "zkTd-GxM4zo",
+    "lang": "en",
+    "t": "☀️ A Film Worth a Top Award! 🎬 A Touching Life Story That Will Reach Your Heart | Full Movie English"
+  },
+  {
+    "channel": "Regular Movies",
+    "cid": "@RegularMoviesyt",
+    "date": "2026-03-06",
+    "id": "LmNZodLh0eo",
+    "lang": "hi",
+    "t": "Encounter (2026) Ajith Kumar South Hindi Full Hd Movie | South New Latest Release Action Movie"
   }
 ]
